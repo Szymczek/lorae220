@@ -19,7 +19,9 @@ sudo reboot
 
 ## 2. Add user to dialout group
 
+```bash
 sudo usermod -a -G dialout $USER
+```
 
 ## 3. Run transmitter.py
 
