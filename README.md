@@ -8,10 +8,10 @@ Interface Options -> Serial Port
 sudo raspi-config
 ```
 
-- Would you like a login shell to be accessible over serial? odpowiedz <No>.
-- Would you like the serial port hardware to be enabled? <Yes>
+- Would you like a login shell to be accessible over serial? No
+- Would you like the serial port hardware to be enabled? Yes
 
-reboot system
+Reboot system
 
 ```bash
 sudo reboot
